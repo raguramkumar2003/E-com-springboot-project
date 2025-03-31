@@ -66,16 +66,5 @@ cd E-com-springboot-project
 | POST   | `/user/register` | Register user      |
 | POST   | `/user/login`    | User authentication |
 
-## 👨‍💻 Contributing
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Added a new feature"`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
 
-## 📄 License
-This project is **MIT Licensed**.
-
----
-📢 **Need Help?** Feel free to contact me at [raguramkumar2003@gmail.com](mailto:raguramkumar2003@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/raguramkumar2003).
 
